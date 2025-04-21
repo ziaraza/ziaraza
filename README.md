@@ -61,7 +61,8 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
   </tr>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziaraza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+      <img height="180em" src="<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaraza&layout=compact&langs_count=8&hide_border=true" />
+" />
     </td>
     <td>
       <table>
