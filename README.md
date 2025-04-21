@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red)](ziaraza1989@gmail.com)
 
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ziaraza.ziaraza&style=flat-square&color=0088cc)
+## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=ziaraza&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
 
 
 ### **Lead Machine Learning Engineer at [Hyetel X](https://hyetelx.com/)**
@@ -30,9 +30,13 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
 - 👾 &nbsp; Fun fact: I am only Social on Social Media.
 - 📫 &nbsp; How to reach me: ziaraza1989@gmail.com
 
-# **Programming Languages I mostly work in:**
+# **Programming Languages & Tools I mostly Use:**
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,react,django,c++,sql&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,django,flask,fastapi,postgres,sqlite,mongodb,redis,bash,HTML,CSS,js,react,azure,linux,git,github,githubactions,kubernetes,docker,c,vscode,heroku,anaconda" />
+  </a>
+</p>
 
 # **Some Github Stats:**
 
@@ -51,7 +55,7 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
     <tr><td><a href="README_pt.md"><img src="https://github.com/ziaraza/ziaraza/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/ziaraza/ziaraza/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
 </table>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziaraza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 <div align="center">
