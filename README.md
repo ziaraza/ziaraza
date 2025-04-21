@@ -51,9 +51,11 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
     <tr><td><a href="README_pt.md"><img src="https://github.com/ziaraza/ziaraza/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/ziaraza/ziaraza/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
 </table>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ziaraza&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 <div align="center">
+
+# Trying to be the best version of myself
 
 </div>
