@@ -2,11 +2,15 @@
 
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=ziaraza&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
 
+---
+
 ### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-important)](https://www.linkedin.com/in/im-zia/)
 [![Github Badge](https://img.shields.io/badge/-Github-brightgreen)](https://github.com/ziaraza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red)](mailto:ziaraza1989@gmail.com)
+
+---
 
 ### **Lead Machine Learning Engineer at [Hyetel X](https://hyetelx.com/)**
 
@@ -20,6 +24,8 @@ At Devinx (Aug 2019 – Mar 2022), I worked as a Data Scientist where I used dat
 
 From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I developed high-performance applications using C, C++, and Assembly Language. I also engaged in web development using JavaScript, HTML, and CSS to create dynamic and visually appealing websites. My work involved database management using SQL, version control with Git, and containerization of applications with Docker to ensure scalable and efficient deployments.
 
+---
+
 # **Some Tools and Technologies I am working on**
 
 - 🛠 &nbsp; I’m currently working with scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Django, React,  
@@ -30,6 +36,8 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
 -  &nbsp; Fun fact: I am only social on social media.  
 -  &nbsp; How to reach me: ziaraza1989@gmail.com
 
+---
+
 # 🛠️ **Programming Languages & Tools I mostly Use**
 
 <p align="center">
@@ -37,6 +45,8 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
     <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,django,flask,fastapi,postgres,sqlite,mongodb,redis,bash,html,css,js,react,azure,linux,git,github,githubactions,kubernetes,docker,c,vscode,heroku,anaconda" />
   </a>
 </p>
+
+---
 
 # **GitHub Stats & Activity**
 
@@ -66,6 +76,6 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
 
 <div align="center">
 
-### 🚀 Trying to be the best version of myself
+### Reach out for Collaboration
 
 </div>
