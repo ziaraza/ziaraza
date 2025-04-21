@@ -2,45 +2,33 @@
 
 ## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=ziaraza&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
 
----
-
-### 📬 Connect with me
+### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-important)](https://www.linkedin.com/in/im-zia/)
 [![Github Badge](https://img.shields.io/badge/-Github-brightgreen)](https://github.com/ziaraza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red)](mailto:ziaraza1989@gmail.com)
 
----
-
-### 🧠 **Lead Machine Learning Engineer at [Hyetel X](https://hyetelx.com/)**
+### **Lead Machine Learning Engineer at [Hyetel X](https://hyetelx.com/)**
 
 As the Lead Machine Learning Engineer at Hyetel X (Apr 2022 – Present), I lead the development and deployment of machine learning solutions across various industries including supply chain, real estate, finance, retail, and healthcare. My work involves leveraging deep learning, natural language processing (NLP), large language models (LLMs), and Generative AI (GenAI) to solve real-world business problems. I develop models for forecasting, recommendation systems, and optimization to drive data-driven decisions.
 
----
-
-### 📊 **Data Scientist at [Devinx]**
+### **Data Scientist at [Devinx]**
 
 At Devinx (Aug 2019 – Mar 2022), I worked as a Data Scientist where I used data science techniques to improve supply chain efficiency through demand planning, inventory optimization, merchandise planning, and replenishment strategies. I also contributed to building a forecasting engine to predict retail and e-commerce demand. Tools I used include Python, Flask, PyTorch, Keras, SQL, and Power BI.
 
----
-
-### 💻 **Software Engineer at [WADIC]**
+### **Software Engineer at [WADIC]**
 
 From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I developed high-performance applications using C, C++, and Assembly Language. I also engaged in web development using JavaScript, HTML, and CSS to create dynamic and visually appealing websites. My work involved database management using SQL, version control with Git, and containerization of applications with Docker to ensure scalable and efficient deployments.
 
----
-
-# 🧰 **Some Tools and Technologies I am working on**
+# **Some Tools and Technologies I am working on**
 
 - 🛠 &nbsp; I’m currently working with scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Django, React,  
   SQL, Oracle, MongoDB, JavaScript, etc.  
-- 🚀 &nbsp; I’m currently learning Full Stack Development while working on my Final Year Project.  
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/ziaraza/).  
-- 💬 &nbsp; You can message me on LinkedIn or reach out via email. I’ll be happy to help.  
-- 👾 &nbsp; Fun fact: I am only social on social media.  
-- 📫 &nbsp; How to reach me: ziaraza1989@gmail.com
-
----
+-  &nbsp; I’m currently learning Full Stack Development while working on my Final Year Project.  
+-  &nbsp; Most of my projects are available on [GitHub](https://github.com/ziaraza/).  
+-  &nbsp; You can message me on LinkedIn or reach out via email. I’ll be happy to help.  
+-  &nbsp; Fun fact: I am only social on social media.  
+-  &nbsp; How to reach me: ziaraza1989@gmail.com
 
 # 🛠️ **Programming Languages & Tools I mostly Use**
 
@@ -50,9 +38,7 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
   </a>
 </p>
 
----
-
-# 📈 **GitHub Stats & Activity**
+# **GitHub Stats & Activity**
 
 <table>
   <tr>
@@ -77,8 +63,6 @@ From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I develope
     </td>
   </tr>
 </table>
-
----
 
 <div align="center">
 
