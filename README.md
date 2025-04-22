@@ -20,9 +20,9 @@ As the Lead Machine Learning Engineer at Hyetel X (Apr 2022 – Present), I lead
 
 At Devinx (Aug 2019 – Mar 2022), I worked as a Data Scientist where I used data science techniques to improve supply chain efficiency through demand planning, inventory optimization, merchandise planning, and replenishment strategies. I also contributed to building a forecasting engine to predict retail and e-commerce demand. Tools I used include Python, Flask, PyTorch, Keras, SQL, and Power BI.
 
-### **Software Engineer at [WADIC]**
+### **Software Engineer at [Orbin]**
 
-From Mar 2011 – Jun 2019, I worked as a Software Engineer at WADIC. I developed high-performance applications using C, C++, and Assembly Language. I also engaged in web development using JavaScript, HTML, and CSS to create dynamic and visually appealing websites. My work involved database management using SQL, version control with Git, and containerization of applications with Docker to ensure scalable and efficient deployments.
+From Mar 2011 – Jun 2019, I worked as a Software Engineer at Orbin. I developed high-performance applications using C, C++, and Assembly Language. I also engaged in web development using JavaScript, HTML, and CSS to create dynamic and visually appealing websites. My work involved database management using SQL, version control with Git, and containerization of applications with Docker to ensure scalable and efficient deployments.
 
 ---
 
